@@ -17,4 +17,4 @@ I revised some sentences to make them more specific and adjusted the wording to 
 I wanted the writing to sound more natural and less generic, while making the focus on business and operations clearer.
 
 **One thing I did not keep as-is:**  
-I rewrote some of the original descriptions of generative AI because they felt too general and not clearly connected to practical use cases.
+I rewrote some of the original descriptions of generative AI because they felt too general and not clearly connected to practical use cases..
