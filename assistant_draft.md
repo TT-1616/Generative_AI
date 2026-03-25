@@ -1,6 +1,6 @@
 # My Interests in Data Analytics
 
-I am a Computer Science student at Michigan State University, and I am especially interested in business analytics and supply chain operations. I like learning how technical skills can be used to solve practical problems in business and improve how organizations make decisions.
+I studied Computer Science at Michigan State University, and I am especially interested in business analytics and supply chain operations. I like learning how technical skills can be used to solve practical problems in business and improve how organizations make decisions.
 
 I care about data analytics because it helps turn raw information into useful insights. In areas like business and supply chain operations, good analysis can help people understand patterns, reduce waste, and make smarter choices with more confidence.
 
